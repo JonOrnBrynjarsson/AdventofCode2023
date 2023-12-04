@@ -13,9 +13,14 @@ I only ask of you, not to laugh to hard when you see some of the solutions I emp
 I am more thinking of this as a way to practice my problem solving and learn some coding skills, rather than to write the most optimize code possible, although I do try finding the shortest path to a solution. 
 
 My scoring: (My accepted solution is no.)
-		Part 1	Part 2
-Day-1	21.361	68.116 The second part was hard!! Wow!
-Day-2	32.384	31.407 Much easier than yeasterday'a problem
+        Part 1  Part 2
+Day-1   21.361  68.116 The second part was hard!! Wow!
+Day-2   32.384  31.407 Much easier than yeasterday'a problem
+Day-3   63.352  ------ Leave this for later, the solution in my head is too complicated!!!
+Day-4   73.110  62.248 
+Day-5
+
+
 
 ps. When each problem becomes available, it is 5 in the morning here in Iceland and I am usually fast asleep :)  Hence, I will probably not score any higher than 20.000.
 
